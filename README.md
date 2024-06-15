@@ -1,5 +1,7 @@
 # paranormal-maimai
 
+[Blazingly fast version](https://github.com/team-nameless/crusty-maimai)
+
 This is just a playground for me to mess with SEGA's "maimaiDX International Version" website. If you are a *somewhat-devoted* maimai player, I think you know [where the title comes from](https://www.youtube.com/watch?v=L_M599WSXlc).
 
 As of 9 September 2023, this tool will empower [nameless*](https://github.com/nameless-on-discord/nameless) with its features.
